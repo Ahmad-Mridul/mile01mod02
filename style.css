@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+}
+.head{
+    margin-left: 100px;
+    
+}
+.blog{
+    height: 300px;
+    width: 1050px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius:0 100px 0 100px;
+    margin-top: 15px;;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    float: left;
+    margin-left: 20px;;
+}
+.content{
+    float: left;
+    width: 700px;
+    text-align: center;
+    margin-top: 63px;
+    margin-left: 95px;
+}
+.corner{
+    border-radius: 100px 0 100px 0;
+}
+.rule{
+    height: 15px;
+    background-color: red;
+}
